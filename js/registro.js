@@ -61,7 +61,7 @@ function validate(){
 	    usuario.save(null, {
 		  success: function() {
 		    alert('¡Gracias! Muy pronto nos pondremos en contacto contigo.');
-		    window.location = 'http://booksurfing.com';
+		    window.location = 'http://booksurfing.mx';
 		  },
 		  error: function(gameScore, error) {
 		    alert('Error al registrar los datos, inténtalo de nuevo.');
