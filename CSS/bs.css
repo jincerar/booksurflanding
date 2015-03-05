@@ -109,6 +109,17 @@
 	padding: 0 0 0 0 !important;
 }
 
+#titulo {
+	outline-color: #000080 !important;
+	color : #000080 !important;
+	font-family: "Courier New"
+}
+
+#letras{
+	/*color : #0000CD !important; */
+	font-family: "Courier New"
+}
+
 .link-white{
 	color: #fff !important;
 }
